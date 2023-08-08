@@ -45,7 +45,7 @@ function Projects() {
       <div className="card w-100 mb-3 border-primary">
         <h4 className="card-header">To Do with TypeScript</h4>
         <div className="card-body">
-          <h6 className="card-title">A feature-rich to-do list application built using TypeScrip</h6>
+          <h6 className="card-title">A feature-rich to-do list application built using TypeScript</h6>
           <p className="card-text fs-6 fw-light">
             Task Creation: Easily add new tasks by entering a task title and optional details.
             Marking Complete: Mark tasks as complete to visually track your progress.

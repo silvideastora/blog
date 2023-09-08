@@ -3,7 +3,7 @@
 function Experience() {
   return (
     <>
-      <div className="card w-50 mb-3 d-flex align-self-center border-secondary justify-content-center mx-auto mt-4">
+      <div className="card w-50 mb-3 d-flex align-self-center border-secondary justify-content-center mx-auto mt-4 col-12 col-md-6 mt-3 mx-auto">
         <div className="row g-0">
           <div className="col-md-2">
             <h6 className="p-3">2022 - PRESENT</h6>
@@ -17,7 +17,7 @@ function Experience() {
               ReactJS, HTML, CSS, Jest, React Testing Library, Figma, Docker, DB Postgres, MySql, Postman, SCRUM, KanBan & Git. Performed quality assurance tests on various sites to ensure cross browser compatibility
               and mobile responsivenes.
             </p>
-            <div className="d-flex justify-content-evenly pb-4">
+            <div className="d-flex justify-content-evenly pb-4 flex-wrap">
             <span className="badge text-bg-secondary d-inline-flex p-3 rounded-pill fw-light">React.js</span>
             <span className="badge text-bg-secondary d-inline-flex p-3 rounded-pill fw-light">CSS</span>
             <span className="badge text-bg-secondary d-inline-flex p-3 rounded-pill fw-light">SASS</span>
@@ -36,7 +36,7 @@ function Experience() {
         </div>
       </div>
     </div>
-    <div className="card w-50 mb-3 d-flex align-self-center border-secondary justify-content-center mx-auto">
+    <div className="card w-50 mb-3 d-flex align-self-center border-secondary justify-content-center mx-auto col-12 col-md-6 mt-3 mx-auto">
         <div className="row g-0">
           <div className="col-md-2">
             <h6 className="p-3">2020 - Sep 2022</h6>
